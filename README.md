@@ -1,4 +1,4 @@
-**Make your PSD smaller by up to 95% and reduce your backup speed and cost**
+**Make your PSDs 95% smaller to enjoy faster and cheaper backups**
 
 ## Demo
 
