@@ -1,4 +1,4 @@
-**tinypsd compresses your psd files by up to 95%, allowing for cheaper and faster backup.**
+**Tinypsd compresses your psd files by up to 95%, allowing for cheaper and faster backup.**
 
 ### Demo
 
@@ -6,9 +6,9 @@
 
 ### How it works
 
-To achieve size reduction of a psd file, tinypsd:
-1. removes cached data of smart objects (both linked and embedded)
-2. cancels its *Maximize Compatibility* option
+To compress a psd file, tinypsd can use one or more of the following lossless technics:
+1. removal of the cached data of the linked and embedded smart objects
+2. cancellation of the *Maximize Compatibility* option
 
 The resulting psd file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state (see the  demo).
 
