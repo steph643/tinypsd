@@ -10,7 +10,7 @@ To achieve size reduction of a psd file, tinypsd:
 1. removes cached data of smart objects (both linked and embedded)
 2. cancels its *Maximize Compatibility* option
 
-The resulting psd file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state.
+The resulting psd file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state (see the above demo).
 
 ### What now?
 
