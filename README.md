@@ -1,4 +1,4 @@
-**tinypsd compresses your psd files by up to 95%, allowing for cheaper and faster backups.**
+**tinypsd compresses your psd files by up to 95%, allowing for cheaper and faster backup.**
 
 ### Demo
 
