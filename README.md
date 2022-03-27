@@ -1,10 +1,10 @@
-**Make your PSDs 95% smaller to enjoy faster and cheaper backups**
+### *Make your PSDs 95% smaller to enjoy faster and cheaper backups.*
 
-## Demo
+# Demo
 
 [![tinypsd demo](https://img.youtube.com/vi/8HH2C6f8D8s/0.jpg)](https://www.youtube.com/watch?v=8HH2C6f8D8s)
 
-## How it works
+# How it works
 
 To compress a PSD file, tinypsd uses one or more of the following lossless technics:
 1. removal of the cached data of the linked and embedded smart objects
@@ -12,7 +12,7 @@ To compress a PSD file, tinypsd uses one or more of the following lossless techn
 
 The resulting PSD file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state (see the  demo).
 
-## What now?
+# What now?
 
 I developped this prototype for my own use, because backing up my work was becoming a nightmare. I am now wondering if it deserves to be scaled up. 
 
