@@ -1,4 +1,4 @@
-### *Make your PSDs 95% smaller to enjoy faster and cheaper backups.*
+### *Make your PSDs 95% smaller and enjoy faster, cheaper backups.*
 
 # Demo
 
