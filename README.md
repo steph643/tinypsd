@@ -14,6 +14,6 @@ The resulting PSD file is usually much smaller than the original, ***but*** it r
 
 ## What now?
 
-I developped this prototype for my own use, because backing up my work was a nightmare. I am now wondering if it deserves to be scaled up. 
+I developped this prototype for my own use, because backing up my work was becoming a nightmare. I am now wondering if it deserves to be scaled up. 
 
 ### If you'd like to see this project move forward, please fill [this short survey](https://docs.google.com/forms/d/e/1FAIpQLSdJUtbC4O7cmTQv2qjXZBuEoTOqfjzADHgMOqzgrqqjuWNCdg/viewform?usp=sf_link) and advertise tinypsd to your friends and colleagues.
