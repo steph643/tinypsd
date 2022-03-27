@@ -12,6 +12,4 @@ To compress a PSD file, tinypsd uses one or more of the following lossless techn
 
 # What now?
 
-I developped this prototype for my own use, because backing up my work was becoming a nightmare. I am now wondering if it deserves to be scaled up. 
-
-### *If you'd like to see this project move forward, please fill [this short survey](https://docs.google.com/forms/d/e/1FAIpQLSdJUtbC4O7cmTQv2qjXZBuEoTOqfjzADHgMOqzgrqqjuWNCdg/viewform?usp=sf_link)*.
+I developped this prototype for my own use, because backing up my work was becoming a nightmare. I am now wondering if it deserves to be scaled up. **If you'd like to see this project move forward, please fill [this short survey](https://docs.google.com/forms/d/e/1FAIpQLSdJUtbC4O7cmTQv2qjXZBuEoTOqfjzADHgMOqzgrqqjuWNCdg/viewform?usp=sf_link)**.
