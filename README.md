@@ -2,7 +2,7 @@
 
 ## Demo
 
-*Video under way*
+[![tinypsd demo](https://img.youtube.com/vi/8HH2C6f8D8s/0.jpg)](https://www.youtube.com/watch?v=8HH2C6f8D8s)
 
 ## How it works
 
