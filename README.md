@@ -7,10 +7,10 @@
 # How it works
 
 To compress a PSD file, tinypsd uses one or more of the following lossless technics:
-1. removal of the cached data of the linked and embedded smart objects
-2. cancellation of the *Maximize Compatibility* option
+1. it removes the cached data of the linked and embedded smart objects,
+2. it cancels the *Maximize Compatibility* option.
 
-The resulting PSD file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state (see the  demo).
+The resulting PSD file is usually much smaller than the original, ***but*** it requires a few simple steps, in Photoshop, to be restored to its original state (see the  above demo).
 
 # What now?
 
